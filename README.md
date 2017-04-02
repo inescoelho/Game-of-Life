@@ -2,10 +2,8 @@
 
 Multiplayer  version  of  Conway’s  Game  of  Life implemented with processes and threads
 
-##Made by:
-*Inês Coelho
-*Filipe Batista 
+### Made by:
+* Inês Coelho
+* Filipe Batista 
 
-2012
-
-(Operating Systems university project)
+(Operating Systems university project - 2012)
