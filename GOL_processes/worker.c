@@ -54,7 +54,7 @@ void consumer() {
 
 	    for (i = 0; i < dimension; i++) {
 	    	sem_wait(cont);
-			Ssem_wait(mutex);
+			sem_wait(mutex);
 	    	line = copy_grid(); //copy next line from temp grid into game grid
 	    	
 	    	sem_post(mutex);
